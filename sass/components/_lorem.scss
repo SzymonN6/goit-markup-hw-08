@@ -1,0 +1,22 @@
+.lorem {
+  display: flex;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  display: flex;
+}
+@media screen and (min-width: 768px) {
+  .lorem {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .lorem {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    display: flex;
+  }
+}
